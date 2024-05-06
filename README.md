@@ -30,4 +30,4 @@ Esperamos que você aproveite a exploração do nosso projeto ***Music House*** 
 
 - [@pedrofratassi](https://github.com/pedrofratassi)
 - [@Gisele Souza](https://github.com/giseleazuos)
-- [@Keroly Andrade](https://github.com/pedrofratassi)
+- [@Keroly Andrade](https://github.com/KerolyAndrade)
